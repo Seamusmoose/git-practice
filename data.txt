@@ -1,0 +1,3 @@
+Name: seamus    
+age: 1000
+lieblings Farbe: gelb
